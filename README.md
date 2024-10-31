@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/returnrqt/bloxstrap/raw/main/Images/mysteriousobject" width="420">
+    <img src="https://github.com/6yNuiC9/q/blob/main/Images/mysteriousobject.png" width="240">
 </p>
 
 <div align="center">
@@ -14,12 +14,9 @@
 
 
 ???
-   - Added Flag profiles
-   - Removed editor warnings
-   - Removed feature flag validation
- - Channel changer
- - Disabling Roblox upgrades
- - Ansel support for Roblox client
- 
-
-
+ - flag profiles
+ - no-hand-holding
+ - no-personal-validation
+ - channel chang
+ - future suppression
+ - anse
