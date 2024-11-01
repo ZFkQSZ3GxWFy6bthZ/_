@@ -34,6 +34,7 @@ namespace Bloxstrap
             { "Rendering.Lighting.Voxel", "DFFlagDebugRenderForceTechnologyVoxel" },
             { "Rendering.Lighting.ShadowMap", "FFlagDebugForceFutureIsBrightPhase2" },
             { "Rendering.Lighting.Future", "FFlagDebugForceFutureIsBrightPhase3" },
+            { "Rendering.Lighting.Unified", "FFlagRenderUnifiedLighting10" },
 
             { "Rendering.TextureQuality.OverrideEnabled", "DFFlagTextureQualityOverrideEnabled" },
             { "Rendering.TextureQuality.Level", "DFIntTextureQualityOverride" },
@@ -71,7 +72,8 @@ namespace Bloxstrap
             { LightingMode.Default, "None" },
             { LightingMode.Voxel, "Voxel" },
             { LightingMode.ShadowMap, "ShadowMap" },
-            { LightingMode.Future, "Future" }
+            { LightingMode.Future, "Future" },
+            { LightingMode.Unified, "Unified" }
         };
 
         public static IReadOnlyDictionary<MSAAMode, string?> MSAAModes => new Dictionary<MSAAMode, string?>

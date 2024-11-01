@@ -208,6 +208,15 @@ namespace Bloxstrap.Properties {
             }
         }
 
+        internal static System.Drawing.Icon mysteriousobject
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("mysteriousobject", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>

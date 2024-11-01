@@ -61,7 +61,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Licenses.
+        ///   Looks up a localized string similar to lice.
         /// </summary>
         public static string About_Licenses_Title {
             get {
@@ -70,8 +70,8 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These are the people who&apos;ve supported Bloxstrap through [Ko-fi]({0}). A massive thank you to everyone here!
-        ///Every person here is ranked by their overall pledge..
+        ///   Looks up a localized string similar to These are the people who&apos;ve supported O through [Ko-fi]({0}). 
+        ///RANKED.
         /// </summary>
         public static string About_Supporters_Description {
             get {
@@ -80,7 +80,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Monthly.
+        ///   Looks up a localized string similar to mnthly.
         /// </summary>
         public static string About_Supporters_Monthly {
             get {
@@ -89,7 +89,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to One-off.
+        ///   Looks up a localized string similar to Pump And Dump.
         /// </summary>
         public static string About_Supporters_OneOff {
             get {
@@ -98,7 +98,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap supporters.
+        ///   Looks up a localized string similar to Supporter supporters.
         /// </summary>
         public static string About_Supporters_Title {
             get {
@@ -107,7 +107,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About Fishstrap.
+        ///   Looks up a localized string similar to abt.
         /// </summary>
         public static string About_Title {
             get {
@@ -116,7 +116,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All of Bloxstrap&apos;s translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Bloxstrap. A massive thank you to everyone here!.
+        ///   Looks up a localized string similar to ❒︎.
         /// </summary>
         public static string About_Translators_Description {
             get {
@@ -125,7 +125,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap translators.
+        ///   Looks up a localized string similar to https://www.newworldencyclopedia.org/entry/Tower_of_Babel.
         /// </summary>
         public static string About_Translators_Title {
             get {
@@ -134,7 +134,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The server location could not be queried. You may be joining games too quickly..
+        ///   Looks up a localized string similar to 🌎 = ⌧︎ : You may be joining games too quickly..
         /// </summary>
         public static string ActivityWatcher_LocationQueryFailed {
             get {
@@ -143,7 +143,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your current game will not show on your Discord presence because an error occurred when loading the game information..
+        ///   Looks up a localized string similar to 🎮 📺 = ⌧︎: an ⌧︎ occurred.
         /// </summary>
         public static string ActivityWatcher_RichPresenceLoadFailed {
             get {
@@ -152,7 +152,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website..
+        ///   Looks up a localized string similar to ⌧︎auto⤓ (⤓ manually).
         /// </summary>
         public static string Bootstrapper_AutoUpdateFailed {
             get {
@@ -161,7 +161,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox is currently running, and launching another instance will close it. Are you sure you want to continue launching?.
+        ///   Looks up a localized string similar to 🎮 is currently 🏃. and 🏃 another 🎮 will ⌧︎ it. continue 🏃?.
         /// </summary>
         public static string Bootstrapper_ConfirmLaunch {
             get {
@@ -170,9 +170,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap tried to upgrade Roblox but can&apos;t because Roblox&apos;s files are still in use.
+        ///   Looks up a localized string similar to tried to ↑ 🎮 but ⌧︎ because 🎮&apos;s 🗐︎ are still in 🏃.
         ///
-        ///Please close any applications that may be using Roblox&apos;s files, and relaunch..
+        ///⌧︎ any 🗐︎ that may be 🏃 🎮&apos;s 🗐︎, and 🏃..
         /// </summary>
         public static string Bootstrapper_FilesInUse {
             get {
@@ -181,7 +181,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You must first install Bloxstrap before uninstalling..
+        ///   Looks up a localized string similar to You must first ⤓ before ↑..
         /// </summary>
         public static string Bootstrapper_FirstRunUninstall {
             get {
@@ -190,7 +190,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Failed to save {0}: {1}.
+        ///   Looks up a localized string similar to ⌧︎ to 🗐︎ {0}: {1}.
         /// </summary>
         public static string Bootstrapper_JsonManagerSaveFailed {
             get {
@@ -199,7 +199,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again..
+        ///   Looks up a localized string similar to ⌧︎ enough ❑︎ to ⤓ and ⤓ 🎮. ⌧︎ some ❑︎ and try again..
         /// </summary>
         public static string Bootstrapper_NotEnoughSpace {
             get {
@@ -208,7 +208,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Applying Roblox modifications....
+        ///   Looks up a localized string similar to applying 🛠.....
         /// </summary>
         public static string Bootstrapper_Status_ApplyingModifications {
             get {
@@ -217,7 +217,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cancelling Roblox upgrade..
+        ///   Looks up a localized string similar to ⌧︎ 🎮 ⤓..
         /// </summary>
         public static string Bootstrapper_Status_CancelUpgrade {
             get {
@@ -226,7 +226,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configuring {product}....
+        ///   Looks up a localized string similar to 🛠 {product}....
         /// </summary>
         public static string Bootstrapper_Status_Configuring {
             get {
@@ -235,7 +235,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Connecting to Roblox....
+        ///   Looks up a localized string similar to 🌎-&gt;🎮.
         /// </summary>
         public static string Bootstrapper_Status_Connecting {
             get {
@@ -244,7 +244,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Installing {product}....
+        ///   Looks up a localized string similar to ⤓ {product}....
         /// </summary>
         public static string Bootstrapper_Status_Installing {
             get {
@@ -253,7 +253,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Installing WebView2, please wait....
+        ///   Looks up a localized string similar to ⤓ WebView2, 😴....
         /// </summary>
         public static string Bootstrapper_Status_InstallingWebView2 {
             get {
@@ -262,7 +262,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Starting {product}....
+        ///   Looks up a localized string similar to 🏃🏃 {product}....
         /// </summary>
         public static string Bootstrapper_Status_Starting {
             get {
@@ -271,7 +271,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Upgrading {product}....
+        ///   Looks up a localized string similar to ⤓=↑↑ {product}....
         /// </summary>
         public static string Bootstrapper_Status_Upgrading {
             get {
@@ -280,7 +280,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Getting the latest Fishstrap....
+        ///   Looks up a localized string similar to 🗐︎-&gt;latest ....
         /// </summary>
         public static string Bootstrapper_Status_UpgradingBloxstrap {
             get {
@@ -289,7 +289,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Waiting for other instances....
+        ///   Looks up a localized string similar to - - -&gt; ?🎮....
         /// </summary>
         public static string Bootstrapper_Status_WaitingOtherInstances {
             get {
@@ -298,7 +298,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Style preview - Click the X button at the top right to close.
+        ///   Looks up a localized string similar to 👁⍓︎- 🖰︎ -&gt; ⌧︎ .
         /// </summary>
         public static string Bootstrapper_StylePreview_ImageCancel {
             get {
@@ -307,7 +307,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Style preview - Click Cancel to close.
+        ///   Looks up a localized string similar to 👁⍓︎- 🖰︎ -&gt; ⌧︎.
         /// </summary>
         public static string Bootstrapper_StylePreview_TextCancel {
             get {
@@ -316,7 +316,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap has successfully uninstalled.
+        ///   Looks up a localized string similar to -&gt;⌧︎!.
         /// </summary>
         public static string Bootstrapper_SuccessfullyUninstalled {
             get {
@@ -325,7 +325,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox is currently running, but must be closed before uninstalling Fishstrap. Would you like close Roblox now?.
+        ///   Looks up a localized string similar to 🎮 = 🏃, 🖰︎ -&gt; ⌧︎ -?&gt; ⌧︎ ❑︎. ⌧︎ 🎮 -&gt; 🏃?.
         /// </summary>
         public static string Bootstrapper_Uninstall_RobloxRunning {
             get {
@@ -334,7 +334,8 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You currently do not have the WebView2 runtime installed. Some Roblox features will not work properly without it, such as the desktop app. Would you like to download it now?.
+        ///   Looks up a localized string similar to ⌧︎ -&gt; WebView2🥩
+        ///🖰︎🏃 -&gt; ⤓ : 🎮 = ☹.
         /// </summary>
         public static string Bootstrapper_WebView2NotFound {
             get {
@@ -343,7 +344,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox requires the use of Windows Media Foundation components. You appear to be missing them, likely because you are using an N edition of Windows. Please install them first, and then launch Roblox..
+        ///   Looks up a localized string similar to 🎮 requires the use of 🗔 Media Foundation components. You appear to be missing them, likely because you are using an N edition of 🗔. Please install them first, and then launch 🎮..
         /// </summary>
         public static string Bootstrapper_WMFNotFound {
             get {
@@ -352,7 +353,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add single.
+        ///   Looks up a localized string similar to add single.
         /// </summary>
         public static string Common_AddSingle {
             get {
@@ -361,7 +362,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Analytics.
+        ///   Looks up a localized string similar to spyware.
         /// </summary>
         public static string Common_Analytics {
             get {
@@ -433,7 +434,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Discord Rich Presence.
+        ///   Looks up a localized string similar to 🌎 rich presence.
         /// </summary>
         public static string Common_DiscordRichPresence {
             get {
@@ -451,7 +452,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fast Flag Editor.
+        ///   Looks up a localized string similar to 🛠 editor.
         /// </summary>
         public static string Common_FastFlags {
             get {
@@ -469,7 +470,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Import from file.
+        ///   Looks up a localized string similar to import file.
         /// </summary>
         public static string Common_ImportFromFile {
             get {
@@ -478,7 +479,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Import JSON.
+        ///   Looks up a localized string similar to import json.
         /// </summary>
         public static string Common_ImportJson {
             get {
@@ -487,7 +488,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Loading, please wait....
+        ///   Looks up a localized string similar to loading....
         /// </summary>
         public static string Common_Loading {
             get {
@@ -496,7 +497,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Miscellaneous.
+        ///   Looks up a localized string similar to misc.
         /// </summary>
         public static string Common_Miscellaneous {
             get {
@@ -505,7 +506,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Name.
+        ///   Looks up a localized string similar to name.
         /// </summary>
         public static string Common_Name {
             get {
@@ -514,7 +515,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Back.
+        ///   Looks up a localized string similar to b.
         /// </summary>
         public static string Common_Navigation_Back {
             get {
@@ -523,7 +524,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Install.
+        ///   Looks up a localized string similar to inst.
         /// </summary>
         public static string Common_Navigation_Install {
             get {
@@ -532,7 +533,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next.
+        ///   Looks up a localized string similar to next.
         /// </summary>
         public static string Common_Navigation_Next {
             get {
@@ -541,7 +542,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Could not load data because of a network error..
+        ///   Looks up a localized string similar to 🖧 error data failed to load.
         /// </summary>
         public static string Common_NetworkError {
             get {
@@ -550,7 +551,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New.
+        ///   Looks up a localized string similar to new.
         /// </summary>
         public static string Common_New {
             get {
@@ -559,7 +560,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No.
+        ///   Looks up a localized string similar to n.
         /// </summary>
         public static string Common_No {
             get {
@@ -568,7 +569,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Not available.
+        ///   Looks up a localized string similar to N/A.
         /// </summary>
         public static string Common_NotAvailable {
             get {
@@ -586,7 +587,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open log file.
+        ///   Looks up a localized string similar to ope nlo g file.
         /// </summary>
         public static string Common_OpenLogFile {
             get {
@@ -595,7 +596,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Presets.
+        ///   Looks up a localized string similar to presets.
         /// </summary>
         public static string Common_Presets {
             get {
@@ -604,7 +605,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reset.
+        ///   Looks up a localized string similar to reset.
         /// </summary>
         public static string Common_Reset {
             get {
@@ -613,7 +614,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox has not yet been installed. Please launch Roblox using Fishstrap at least once before trying to use this option..
+        ///   Looks up a localized string similar to 🎮 has not yet been installed. 🏃 🎮 using ❑︎ at least once before trying to use this option..
         /// </summary>
         public static string Common_RobloxNotInstalled {
             get {
@@ -622,7 +623,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Shortcuts.
+        ///   Looks up a localized string similar to shortcuts.
         /// </summary>
         public static string Common_Shortcuts {
             get {
@@ -631,7 +632,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Desktop icon.
+        ///   Looks up a localized string similar to deskt icons.
         /// </summary>
         public static string Common_Shortcuts_Desktop {
             get {
@@ -640,7 +641,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Start Menu icon.
+        ///   Looks up a localized string similar to strt icon.
         /// </summary>
         public static string Common_Shortcuts_StartMenu {
             get {
@@ -649,7 +650,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to System default.
+        ///   Looks up a localized string similar to sys default.
         /// </summary>
         public static string Common_SystemDefault {
             get {
@@ -658,7 +659,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Value.
+        ///   Looks up a localized string similar to value.
         /// </summary>
         public static string Common_Value {
             get {
@@ -667,7 +668,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Warning.
+        ///   Looks up a localized string similar to warning.
         /// </summary>
         public static string Common_Warning {
             get {
@@ -676,7 +677,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Yes.
+        ///   Looks up a localized string similar to yes.
         /// </summary>
         public static string Common_Yes {
             get {
@@ -685,7 +686,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Close Roblox.
+        ///   Looks up a localized string similar to close 🎮.
         /// </summary>
         public static string ContextMenu_CloseRoblox {
             get {
@@ -694,7 +695,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are you sure you want to close Roblox? This will forcefully end the process..
+        ///   Looks up a localized string similar to are you sure you want to close 🎮?.
         /// </summary>
         public static string ContextMenu_CloseRobloxMessage {
             get {
@@ -703,7 +704,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy invite deeplink.
+        ///   Looks up a localized string similar to 🗐︎ invite deeplink.
         /// </summary>
         public static string ContextMenu_CopyDeeplinkInvite {
             get {
@@ -712,7 +713,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Game history is only recorded for your current Roblox session. Games will appear here as you leave them or teleport within them. Not all servers will be rejoinable..
+        ///   Looks up a localized string similar to 🎮 history is only recorded for your current 🎮 session. 🎮 will appear here as you leave them or teleport within them. not all 🎮 will be rejoinable..
         /// </summary>
         public static string ContextMenu_GameHistory_Description {
             get {
@@ -721,7 +722,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rejoin.
+        ///   Looks up a localized string similar to rejoin.
         /// </summary>
         public static string ContextMenu_GameHistory_Rejoin {
             get {
@@ -730,7 +731,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Game history.
+        ///   Looks up a localized string similar to 🎮+🗏︎.
         /// </summary>
         public static string ContextMenu_GameHistory_Title {
             get {
@@ -739,7 +740,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy Instance ID.
+        ///   Looks up a localized string similar to 🗐︎inst id.
         /// </summary>
         public static string ContextMenu_ServerInformation_CopyInstanceId {
             get {
@@ -748,7 +749,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Instance ID.
+        ///   Looks up a localized string similar to inst id.
         /// </summary>
         public static string ContextMenu_ServerInformation_InstanceId {
             get {
@@ -757,7 +758,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Location.
+        ///   Looks up a localized string similar to location.
         /// </summary>
         public static string ContextMenu_ServerInformation_Location {
             get {
@@ -766,8 +767,8 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Location: {0}
-        ///Click for more information.
+        ///   Looks up a localized string similar to location: {0}
+        ///(🖰︎).
         /// </summary>
         public static string ContextMenu_ServerInformation_Notification_Text {
             get {
@@ -776,7 +777,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Connected to private server.
+        ///   Looks up a localized string similar to (private).
         /// </summary>
         public static string ContextMenu_ServerInformation_Notification_Title_Private {
             get {
@@ -785,7 +786,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Connected to public server.
+        ///   Looks up a localized string similar to (public).
         /// </summary>
         public static string ContextMenu_ServerInformation_Notification_Title_Public {
             get {
@@ -794,7 +795,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Connected to reserved server.
+        ///   Looks up a localized string similar to (reserved).
         /// </summary>
         public static string ContextMenu_ServerInformation_Notification_Title_Reserved {
             get {
@@ -803,7 +804,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Server information.
+        ///   Looks up a localized string similar to 📄︎ info.
         /// </summary>
         public static string ContextMenu_ServerInformation_Title {
             get {
@@ -812,7 +813,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Type.
+        ///   Looks up a localized string similar to typ.
         /// </summary>
         public static string ContextMenu_ServerInformation_Type {
             get {
@@ -821,7 +822,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add Fast Flag.
+        ///   Looks up a localized string similar to Add 🛠.
         /// </summary>
         public static string Dialog_AddFastFlag_Title {
             get {
@@ -830,7 +831,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please wait for installation to finish..
+        ///   Looks up a localized string similar to Please wait for ⤓ to finish..
         /// </summary>
         public static string Dialog_AlreadyRunning_Installer {
             get {
@@ -839,7 +840,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please wait for uninstallation to finish..
+        ///   Looks up a localized string similar to Please ... for ⌧︎ to finish..
         /// </summary>
         public static string Dialog_AlreadyRunning_Uninstaller {
             get {
@@ -848,7 +849,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings..
+        ///   Looks up a localized string similar to ❑︎ was unable to create shortcuts for the Desktop and Start menu..
         /// </summary>
         public static string Dialog_CannotCreateShortcuts {
             get {
@@ -857,7 +858,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A connection could not be made, which likely indicates a poor internet connection or a firewall block. If your connection is fine, please ensure that your antivirus isn&apos;t blocking Bloxstrap..
+        ///   Looks up a localized string similar to a -&gt; could not be made, which likely indicates a poor internet -&gt; or a firewall block. If your connection is fine, please ensure that your antivirus isn&apos;t blocking ❑︎..
         /// </summary>
         public static string Dialog_Connectivity_BadConnection {
             get {
@@ -884,7 +885,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox may be down right now. See {0} for more information..
+        ///   Looks up a localized string similar to 🎮 may be ⌧︎ right now. See {0} for more information..
         /// </summary>
         public static string Dialog_Connectivity_RobloxDown {
             get {
@@ -893,7 +894,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Because Roblox needs to be installed or upgraded, Bloxstrap cannot continue..
+        ///   Looks up a localized string similar to Because 🎮 needs to be installed or upgraded, ❑︎ cannot continue..
         /// </summary>
         public static string Dialog_Connectivity_RobloxUpgradeNeeded {
             get {
@@ -902,7 +903,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to For this launch, Roblox will not be checked for upgrades, and changes to mods will not be applied..
+        ///   Looks up a localized string similar to For this launch, ❑︎ will not be checked for upgrades, and changes to 🛠 will not be applied..
         /// </summary>
         public static string Dialog_Connectivity_RobloxUpgradeSkip {
             get {
@@ -938,7 +939,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap is unable to connect to {0}.
+        ///   Looks up a localized string similar to ❑︎ is unable to connect to {0}.
         /// </summary>
         public static string Dialog_Connectivity_UnableToConnect {
             get {
@@ -947,7 +948,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap is unable to download Roblox.
+        ///   Looks up a localized string similar to ❑︎ is unable to download 🎮.
         /// </summary>
         public static string Dialog_Connectivity_UnableToDownload {
             get {
@@ -956,7 +957,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox cannot be downloaded at this time. Please read the following help page for more information: {0}.
+        ///   Looks up a localized string similar to 🎮 cannot be downloaded at this time. Please read the following help page for more information: {0}.
         /// </summary>
         public static string Dialog_Connectivity_UnableToDownloadReason {
             get {
@@ -974,7 +975,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An exception occurred while running Fishstrap/Bloxstrap.
+        ///   Looks up a localized string similar to An ⌧︎ occurred while 🏃 ❑︎.
         /// </summary>
         public static string Dialog_Exception_Info_1 {
             get {
@@ -983,9 +984,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Check the [Bloxstrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
+        ///   Looks up a localized string similar to Check the [❑︎ wiki]({0}) first to see if this problem has already been addressed with a fix.
         ///
-        ///If not, then please report this exception through a [GitHub issue]({1}) along with a copy of the log file that was created..
+        ///If not, then please report this exception through a [gh issue]({1}) along with a copy of the log file that was created..
         /// </summary>
         public static string Dialog_Exception_Info_2 {
             get {
@@ -994,9 +995,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Check the [Bloxstrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
+        ///   Looks up a localized string similar to Check the [❑︎ wiki]({0}) first to see if this problem has already been addressed with a fix.
         ///
-        ///If not, then please report this exception to the maintainers of this fork. Do NOT report this to Bloxstrap&apos;s GitHub issues, as this is an unoffical build..
+        ///If not, then please report this ⌧︎ to the maintainers of ❑︎. Do NOT report this to O&apos;s GitHub issues, as this is an unoffical build..
         /// </summary>
         public static string Dialog_Exception_Info_2_Alt {
             get {
@@ -1005,7 +1006,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Report exception.
+        ///   Looks up a localized string similar to report ❑︎.
         /// </summary>
         public static string Dialog_Exception_Report {
             get {
@@ -1014,7 +1015,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap Exception.
+        ///   Looks up a localized string similar to ❑︎ exception.
         /// </summary>
         public static string Dialog_Exception_Title {
             get {
@@ -1032,7 +1033,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The chosen bootstrapper icon could not be loaded.
+        ///   Looks up a localized string similar to The chosen ❑︎ icon could not be loaded.
         ///
         ///{0}.
         /// </summary>
@@ -1061,7 +1062,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox has crashed..
+        ///   Looks up a localized string similar to 🎮 has crashed..
         /// </summary>
         public static string Dialog_PlayerError_Crash {
             get {
@@ -1070,7 +1071,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox failed to launch..
+        ///   Looks up a localized string similar to 🎮 failed to launch..
         /// </summary>
         public static string Dialog_PlayerError_FailedLaunch {
             get {
@@ -1079,9 +1080,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to For information about why this could be happening and how this can be resolved, please read [this help article]({0}).
+        ///   Looks up a localized string similar to 📖 about why this could be happening and how this can be resolved, please read [this help article]({0}).
         ///
-        ///Check if Roblox works with [the original launcher]({1}). If it doesn&apos;t, then this isn&apos;t a Bloxstrap issue. If it does, then refer to the help article..
+        ///Check if 🎮 works with [the original launcher]({1}). If it doesn&apos;t, then this isn&apos;t a ❑︎ issue. If it does, then refer to the 📖..
         /// </summary>
         public static string Dialog_PlayerError_HelpInformation {
             get {
@@ -1090,7 +1091,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn&apos;t anything that would restrict Fishstrap&apos;s operation..
+        ///   Looks up a localized string similar to ❑︎ is unable to write to the 🗔 Registry. An 🧱 is likely interfering and causing issues. Please check to make sure there isn&apos;t anything that would restrict ❑︎&apos;s operation..
         /// </summary>
         public static string Dialog_RegistryWriteError {
             get {
@@ -1306,6 +1307,15 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Unified.
+        /// </summary>
+        public static string Enums_FlagPresets_LightingMode_Unified {
+            get {
+                return ResourceManager.GetString("Enums.FlagPresets.LightingMode.Unified", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Voxel (Phase 1).
         /// </summary>
         public static string Enums_FlagPresets_LightingMode_Voxel {
@@ -1414,7 +1424,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dark.
+        ///   Looks up a localized string similar to dark.
         /// </summary>
         public static string Enums_Theme_Dark {
             get {
@@ -1423,7 +1433,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Light.
+        ///   Looks up a localized string similar to light.
         /// </summary>
         public static string Enums_Theme_Light {
             get {
@@ -1441,7 +1451,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Zip archive.
+        ///   Looks up a localized string similar to zip archive.
         /// </summary>
         public static string FileTypes_ZipArchive {
             get {
@@ -1450,7 +1460,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap has been upgraded to v{0}.
+        ///   Looks up a localized string similar to ❑︎ -&gt; v{0}.
         /// </summary>
         public static string InstallChecker_Updated {
             get {
@@ -1459,8 +1469,8 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The version of Fishstrap you&apos;ve launched is different to the version you currently have installed.
-        ///Would you like to upgrade your currently installed version?.
+        ///   Looks up a localized string similar to version of ❑︎ you&apos;ve launched is different to the version you currently have installed.
+        ///❑︎ -&gt; ↑?.
         /// </summary>
         public static string InstallChecker_VersionDifferentThanInstalled {
             get {
@@ -1469,9 +1479,8 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The version of Fishstrap you&apos;ve launched is older than the version you currently have installed.
-        ///Issues may occur and your settings may be altered. A reinstall is recommended.
-        ///Are you sure you want to continue?.
+        ///   Looks up a localized string similar to version of ❑︎ you&apos;ve launched is older than the version you currently have installed.
+        ///proceed?.
         /// </summary>
         public static string InstallChecker_VersionLessThanInstalled {
             get {
@@ -1480,7 +1489,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Will drop you into the desktop app once everything&apos;s done.
+        ///   Looks up a localized string similar to will drop into app when done.
         /// </summary>
         public static string Installer_Completion_Launch_Description {
             get {
@@ -1489,7 +1498,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Install and launch Roblox.
+        ///   Looks up a localized string similar to initiate g.
         /// </summary>
         public static string Installer_Completion_Launch_Title {
             get {
@@ -1498,7 +1507,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tweak with all the features it has to offer.
+        ///   Looks up a localized string similar to tweak 🛠.
         /// </summary>
         public static string Installer_Completion_Settings_Description {
             get {
@@ -1507,7 +1516,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure Fishstrap&apos;s settings.
+        ///   Looks up a localized string similar to configure ❑︎.
         /// </summary>
         public static string Installer_Completion_Settings_Title {
             get {
@@ -1516,13 +1525,13 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap has successfully been installed.
+        ///   Looks up a localized string similar to ❑︎ has successfully been installed.
         ///
-        ///Roblox has not yet been installed, that will happen when you launch it with Fishstrap for the first time. However, before you do that, you may want to configure Fishstrap&apos;s settings first.
+        ///🎮 has 🛑 yet been installed, that will happen when you launch it with ❑︎ for the first time. However, before you do that, you may want to configure ❑︎&apos;s settings first.
         ///
-        ///Also, avoid using the &quot;Roblox Player&quot; shortcut to launch Roblox, as Fishstrap won&apos;t launch with Roblox. If you don&apos;t see Fishstrap show when launching from the website, simply launch Roblox with Fishstrap once from the desktop to fix it.
+        ///🛑 using the &quot;🎮 Player&quot; shortcut to launch ❑︎ -&gt; ❑︎ (⌧︎🏃) with 🎮. If you don&apos;t see ❑︎ show when launching from the website, simply launch 🎮 with ❑︎ once from the 🗔 to fix it.
         ///
-        ///What would you like to do?.
+        ///?.
         /// </summary>
         public static string Installer_Completion_Text {
             get {
@@ -1531,7 +1540,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Completion.
+        ///   Looks up a localized string similar to ❑︎.
         /// </summary>
         public static string Installer_Completion_Title {
             get {
@@ -1540,9 +1549,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
+        ///   Looks up a localized string similar to ❑︎ has been ⤓ to this location before and is still present, however the ⤓ cannot overwrite the old executable. 
         ///
-        ///Please manually delete Fishstrap.exe from the install location or try restarting your system, and then retry installation afterwards..
+        ///Please manually delete ❑︎.exe from the install location or try restarting your system, and then retry installation afterwards..
         /// </summary>
         public static string Installer_Install_CannotOverwrite {
             get {
@@ -1560,7 +1569,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox will also be installed to this path. Change this if you prefer to install all your games to a separate drive. Otherwise, it&apos;s recommended that you keep this as it is..
+        ///   Looks up a localized string similar to 🎮 -&gt; ⤓ -&gt; path..
         /// </summary>
         public static string Installer_Install_Location_Text {
             get {
@@ -1569,7 +1578,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose where to install to.
+        ///   Looks up a localized string similar to 🛠 ⤓ path.
         /// </summary>
         public static string Installer_Install_Location_Title {
             get {
@@ -1578,7 +1587,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These are general shortcuts that bring up a multi-choice launch menu. Shortcuts for specific functions can be created later in the settings..
+        ///   Looks up a localized string similar to general shortcuts that bring up a multi-choice launch menu. shortcuts for specific functions can be created later in the 🛠..
         /// </summary>
         public static string Installer_Install_Shortcuts_Description {
             get {
@@ -1587,7 +1596,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Install.
+        ///   Looks up a localized string similar to inst.
         /// </summary>
         public static string Installer_Install_Title {
             get {
@@ -1596,7 +1605,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are you sure you want to cancel the installation?.
+        ///   Looks up a localized string similar to ⌧︎ the ⤓?.
         /// </summary>
         public static string Installer_ShouldCancel {
             get {
@@ -1605,7 +1614,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap Installer.
+        ///   Looks up a localized string similar to ❑︎ initiator.
         /// </summary>
         public static string Installer_Title {
             get {
@@ -1614,11 +1623,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Thank you for downloading Fishstrap. 
+        ///   Looks up a localized string similar to welcome to ❑︎
         ///
-        ///The only official source to download Fishstrap from is {0} so please verify that you got it from an official source.
-        ///
-        ///This installation process will be quick and simple, and you will be able to configure any of Fishstrap&apos;s settings after installation..
+        ///{0}.
         /// </summary>
         public static string Installer_Welcome_MainText {
             get {
@@ -1636,7 +1643,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome.
+        ///   Looks up a localized string similar to ❑︎.
         /// </summary>
         public static string Installer_Welcome_Title {
             get {
@@ -1645,7 +1652,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are trying to install version {0} of Fishstrap, but the latest version available is {1}. Would you like to download it?.
+        ///   Looks up a localized string similar to initiating  {0} of ❑︎, but the latest model is {1}. download {1}?.
         /// </summary>
         public static string Installer_Welcome_UpdateNotice {
             get {
@@ -1654,7 +1661,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your Fast Flags could not be loaded. They have been reset to the default configuration..
+        ///   Looks up a localized string similar to ClientAppSettings.json failed to load..
         /// </summary>
         public static string JsonManager_FastFlagsLoadFailed {
             get {
@@ -1663,7 +1670,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your Settings could not be loaded. They have been reset to the default configuration..
+        ///   Looks up a localized string similar to 🛠 reset. Failed to load..
         /// </summary>
         public static string JsonManager_SettingsLoadFailed {
             get {
@@ -1672,7 +1679,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure settings.
+        ///   Looks up a localized string similar to configure ❑︎.
         /// </summary>
         public static string LaunchMenu_ConfigureSettings {
             get {
@@ -1681,7 +1688,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Join our discord server.
+        ///   Looks up a localized string similar to become part of $🌎.
         /// </summary>
         public static string LaunchMenu_Donate {
             get {
@@ -1690,7 +1697,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Launch Roblox.
+        ///   Looks up a localized string similar to launch 🎮.
         /// </summary>
         public static string LaunchMenu_LaunchRoblox {
             get {
@@ -1699,7 +1706,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to See the Wiki for help.
+        ///   Looks up a localized string similar to 👁 the 📖 for help.
         /// </summary>
         public static string LaunchMenu_Wiki_Description {
             get {
@@ -1708,7 +1715,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Having an issue?.
+        ///   Looks up a localized string similar to ☹?.
         /// </summary>
         public static string LaunchMenu_Wiki_Title {
             get {
@@ -1717,7 +1724,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No log file will be written for this launch because Bloxstrap is unable to write to the folder at &apos;{0}&apos;.
+        ///   Looks up a localized string similar to ❑︎ unable to write to {0} no logs written.
         /// </summary>
         public static string Logger_NoWriteMode {
             get {
@@ -1726,7 +1733,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Contributors.
+        ///   Looks up a localized string similar to apostles.
         /// </summary>
         public static string Menu_About_Contributors {
             get {
@@ -1735,7 +1742,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Code.
+        ///   Looks up a localized string similar to code.
         /// </summary>
         public static string Menu_About_Contributors_Code {
             get {
@@ -1744,7 +1751,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These are the people who have made notable contributions to *Bloxstrap*, helping make it what it is..
+        ///   Looks up a localized string similar to these r apostles of o..
         /// </summary>
         public static string Menu_About_Contributors_Description {
             get {
@@ -1753,7 +1760,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Feature Ideas.
+        ///   Looks up a localized string similar to 🛠 ideas.
         /// </summary>
         public static string Menu_About_Contributors_FeatureIdeas {
             get {
@@ -1762,7 +1769,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Special Thanks.
+        ///   Looks up a localized string similar to thx.
         /// </summary>
         public static string Menu_About_Contributors_SpecialThanks {
             get {
@@ -1771,7 +1778,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A Bloxstrap fork..
+        ///   Looks up a localized string similar to FΩ -&gt; ❑︎.
         /// </summary>
         public static string Menu_About_Description {
             get {
@@ -1780,7 +1787,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Discord server.
+        ///   Looks up a localized string similar to 🌎.
         /// </summary>
         public static string Menu_About_DiscordServer {
             get {
@@ -1789,7 +1796,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to GitHub repository.
+        ///   Looks up a localized string similar to gh repository.
         /// </summary>
         public static string Menu_About_GithubRepository {
             get {
@@ -1798,7 +1805,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Help and Information.
+        ///   Looks up a localized string similar to HelpHelpHelp.
         /// </summary>
         public static string Menu_About_HelpInformation {
             get {
@@ -1807,7 +1814,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Licenses.
+        ///   Looks up a localized string similar to lic.
         /// </summary>
         public static string Menu_About_Licenses {
             get {
@@ -1834,7 +1841,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Report an issue.
+        ///   Looks up a localized string similar to problem?.
         /// </summary>
         public static string Menu_About_ReportIssue {
             get {
@@ -1843,7 +1850,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About.
+        ///   Looks up a localized string similar to ab.
         /// </summary>
         public static string Menu_About_Title {
             get {
@@ -1852,7 +1859,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Version {0}.
+        ///   Looks up a localized string similar to v {0}.
         /// </summary>
         public static string Menu_About_Version {
             get {
@@ -1861,7 +1868,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All files.
+        ///   Looks up a localized string similar to all files.
         /// </summary>
         public static string Menu_AllFiles {
             get {
@@ -1870,7 +1877,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please note that not all your changes will immediately apply until you close all currently open Roblox instances..
+        ///   Looks up a localized string similar to changes not apply until q is shutdown.
         /// </summary>
         public static string Menu_AlreadyRunning_Caption {
             get {
@@ -1879,7 +1886,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap is already running.
+        ///   Looks up a localized string similar to ❑︎ is already running.
         /// </summary>
         public static string Menu_AlreadyRunning_Title {
             get {
@@ -1888,7 +1895,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can make it look different, retro, or even just like Roblox..
+        ///   Looks up a localized string similar to ☺︎✁︎❑︎❀.
         /// </summary>
         public static string Menu_Appearance_Bootstrapper_Description {
             get {
@@ -1897,7 +1904,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bootstrapper.
+        ///   Looks up a localized string similar to ❑︎.
         /// </summary>
         public static string Menu_Appearance_Bootstrapper_Title {
             get {
@@ -1906,7 +1913,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure other miscellaneous customisable options..
+        ///   Looks up a localized string similar to configure ❑︎.
         /// </summary>
         public static string Menu_Appearance_Customisation_Description {
             get {
@@ -1915,7 +1922,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Customisation.
+        ///   Looks up a localized string similar to ✁︎❑︎.
         /// </summary>
         public static string Menu_Appearance_Customisation_Title {
             get {
@@ -1924,7 +1931,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Must be a multi-size .ico file with sizes 16px to 128px. Set Icon as &apos;Custom&apos; to use it..
+        ///   Looks up a localized string similar to multi-size .ico file with sizes 16px to 128px. icon set to &apos;Custom&apos;.
         /// </summary>
         public static string Menu_Appearance_CustomisationIcon_Description {
             get {
@@ -1933,7 +1940,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Custom Icon.
+        ///   Looks up a localized string similar to custom.
         /// </summary>
         public static string Menu_Appearance_CustomisationIcon_Title {
             get {
@@ -1942,7 +1949,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The text that shows as the title of the bootstrapper..
+        ///   Looks up a localized string similar to text that shows as the title of the ❑︎..
         /// </summary>
         public static string Menu_Appearance_CustomisationTitle_Description {
             get {
@@ -1951,7 +1958,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title.
+        ///   Looks up a localized string similar to t.
         /// </summary>
         public static string Menu_Appearance_CustomisationTitle_Title {
             get {
@@ -1960,7 +1967,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure how Fishstrap should look..
+        ///   Looks up a localized string similar to 🛠 how ❑︎ should look..
         /// </summary>
         public static string Menu_Appearance_Description {
             get {
@@ -1969,7 +1976,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Global Theme.
+        ///   Looks up a localized string similar to g theme.
         /// </summary>
         public static string Menu_Appearance_Global_Theme_Title {
             get {
@@ -1978,7 +1985,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose what icon it should use..
+        ///   Looks up a localized string similar to what ⍓︎ it should use..
         /// </summary>
         public static string Menu_Appearance_Icon_Description {
             get {
@@ -1987,7 +1994,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Icon.
+        ///   Looks up a localized string similar to ⍓︎.
         /// </summary>
         public static string Menu_Appearance_Icon_Title {
             get {
@@ -1996,7 +2003,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A relaunch is required for changes to take effect..
+        ///   Looks up a localized string similar to 🏃⟳ for changes.
         /// </summary>
         public static string Menu_Appearance_Language_Description {
             get {
@@ -2005,7 +2012,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Language.
+        ///   Looks up a localized string similar to language.
         /// </summary>
         public static string Menu_Appearance_Language_Title {
             get {
@@ -2014,7 +2021,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preview.
+        ///   Looks up a localized string similar to preview.
         /// </summary>
         public static string Menu_Appearance_Preview {
             get {
@@ -2023,7 +2030,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose how it should look. Dark theme does not apply to Legacy/Vista..
+        ///   Looks up a localized string similar to ❑︎ theme does not apply to Legacy/Vista..
         /// </summary>
         public static string Menu_Appearance_Style_Description {
             get {
@@ -2032,7 +2039,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Style.
+        ///   Looks up a localized string similar to ⍓︎.
         /// </summary>
         public static string Menu_Appearance_Style_Title {
             get {
@@ -2041,7 +2048,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Appearance.
+        ///   Looks up a localized string similar to ⍓︎.
         /// </summary>
         public static string Menu_Appearance_Title {
             get {
@@ -2050,7 +2057,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap will automatically check and update itself when launching Roblox..
+        ///   Looks up a localized string similar to ❑︎ will automatically check and update itself when launching 🎮..
         /// </summary>
         public static string Menu_Behaviour_AutoUpdate_Description {
             get {
@@ -2059,7 +2066,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Automatically update Fishstrap.
+        ///   Looks up a localized string similar to automatically update ❑︎.
         /// </summary>
         public static string Menu_Behaviour_AutoUpdate_Title {
             get {
@@ -2068,7 +2075,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Channel.
+        ///   Looks up a localized string similar to channel.
         /// </summary>
         public static string Menu_Behaviour_Channel_Title {
             get {
@@ -2077,7 +2084,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Prevent against closures of your existing game from accidentally launching another one..
+        ///   Looks up a localized string similar to prevent against closures of your existing game from accidentally launching another one..
         /// </summary>
         public static string Menu_Behaviour_ConfirmLaunches_Description {
             get {
@@ -2086,7 +2093,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Prompt to confirm when launching another Roblox instance.
+        ///   Looks up a localized string similar to prompt to confirm when launching extra 🎮 instance.
         /// </summary>
         public static string Menu_Behaviour_ConfirmLaunches_Title {
             get {
@@ -2095,7 +2102,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure what Fishstrap should do when launching Roblox..
+        ///   Looks up a localized string similar to Configure what ❑︎ should do when launching 🎮..
         /// </summary>
         public static string Menu_Behaviour_Description {
             get {
@@ -2104,7 +2111,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Only applies to games launched from the Roblox website..
+        ///   Looks up a localized string similar to only applies to 🎮 launched from the 🎮 website..
         /// </summary>
         public static string Menu_Behaviour_ForceRobloxLanguage_Description {
             get {
@@ -2113,7 +2120,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allow use of unsupported Roblox languages.
+        ///   Looks up a localized string similar to allow use of unsupported 🎮 languages.
         /// </summary>
         public static string Menu_Behaviour_ForceRobloxLanguage_Title {
             get {
@@ -2122,7 +2129,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox will be installed fresh on next launch..
+        ///   Looks up a localized string similar to 🎮 will be installed fresh on next launch..
         /// </summary>
         public static string Menu_Behaviour_ForceRobloxReinstall_Description {
             get {
@@ -2131,7 +2138,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Force Roblox reinstallation.
+        ///   Looks up a localized string similar to force 🎮 reinitiation.
         /// </summary>
         public static string Menu_Behaviour_ForceRobloxReinstall_Title {
             get {
@@ -2140,7 +2147,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enables Ansel for Roblox client. Requires [supported graphic card](https://www.nvidia.com/en-us/geforce/technologies/ansel/supported-gpus/)..
+        ///   Looks up a localized string similar to ansel for client -&gt; [supported graphic card](https://www.nvidia.com/en-us/geforce/technologies/ansel/supported-gpus/)..
         /// </summary>
         public static string Menu_Behaviour_RenameToEurotrucks_Description {
             get {
@@ -2149,7 +2156,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rename Roblox to eurotrucks2.exe.
+        ///   Looks up a localized string similar to rename 🎮 to eurotrucks2.exe.
         /// </summary>
         public static string Menu_Behaviour_RenameToEurotrucks_Title {
             get {
@@ -2158,7 +2165,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bootstrapper.
+        ///   Looks up a localized string similar to b.
         /// </summary>
         public static string Menu_Behaviour_Title {
             get {
@@ -2167,7 +2174,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to It&apos;s anonymous and nothing evil, promise. For insight on what Bloxstrap collects and why, see Bloxstrap&apos;s [privacy policy]({0})..
+        ///   Looks up a localized string similar to Evil and nonanonymous, O&apos;s [privacy policy]({0}), Do not be assimilated, stay with ❑︎..
         /// </summary>
         public static string Menu_Bloxstrap_Analytics_Description {
             get {
@@ -2176,7 +2183,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enable sending of analytics to Bloxstrap.
+        ///   Looks up a localized string similar to enables phoning home to O.
         /// </summary>
         public static string Menu_Bloxstrap_Analytics_Title {
             get {
@@ -2185,7 +2192,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure options related to Fishstrap&apos;s behaviour itself..
+        ///   Looks up a localized string similar to Configure options related to ❑︎&apos;s behaviour itself..
         /// </summary>
         public static string Menu_Bloxstrap_Description {
             get {
@@ -2194,7 +2201,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Gather information that can be uploaded online to troubleshoot a problem you&apos;re having..
+        ///   Looks up a localized string similar to gather information that can be uploaded online to troubleshoot a problem you&apos;re having..
         /// </summary>
         public static string Menu_Bloxstrap_ExportData_Description {
             get {
@@ -2203,7 +2210,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap configuration.
+        ///   Looks up a localized string similar to ❑︎ configuration.
         /// </summary>
         public static string Menu_Bloxstrap_ExportData_ExportConfig {
             get {
@@ -2212,7 +2219,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All Bloxstrap logs.
+        ///   Looks up a localized string similar to ❑︎ logs.
         /// </summary>
         public static string Menu_Bloxstrap_ExportData_ExportLogs {
             get {
@@ -2221,7 +2228,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Export diagnostic data.
+        ///   Looks up a localized string similar to export diagnostic i.
         /// </summary>
         public static string Menu_Bloxstrap_ExportData_Title {
             get {
@@ -2230,7 +2237,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add new.
+        ///   Looks up a localized string similar to add new.
         /// </summary>
         public static string Menu_FastFlagEditor_AddNew {
             get {
@@ -2239,7 +2246,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An entry for this flag name already exists..
+        ///   Looks up a localized string similar to FLAG ALREADY EXISTS.
         /// </summary>
         public static string Menu_FastFlagEditor_AlreadyExists {
             get {
@@ -2248,7 +2255,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Back.
+        ///   Looks up a localized string similar to b.
         /// </summary>
         public static string Menu_FastFlagEditor_Back {
             get {
@@ -2257,7 +2264,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Misusing this can lead to instability or unexpected things happening..
+        ///   Looks up a localized string similar to Misuse me..
         /// </summary>
         public static string Menu_FastFlagEditor_BannerText {
             get {
@@ -2266,7 +2273,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use with caution..
+        ///   Looks up a localized string similar to Fool..
         /// </summary>
         public static string Menu_FastFlagEditor_BannerTitle {
             get {
@@ -2275,9 +2282,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Some of the flags you are attempting to import already have set values. Would you like to overwrite their current values with the ones defined in the import?
+        ///   Looks up a localized string similar to Overwrite?
         ///
-        ///There are {0} conflicting flag definitions:
+        ///{0} conflicting s definitions:
         ///{1}.
         /// </summary>
         public static string Menu_FastFlagEditor_ConflictingImport {
@@ -2287,7 +2294,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Delete selected.
+        ///   Looks up a localized string similar to delete 🛠.
         /// </summary>
         public static string Menu_FastFlagEditor_DeleteSelected {
             get {
@@ -2296,7 +2303,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage your own Fast Flags. Double click a column to edit..
+        ///   Looks up a localized string similar to manage 🛠..
         /// </summary>
         public static string Menu_FastFlagEditor_Description {
             get {
@@ -2305,7 +2312,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Export JSON.
+        ///   Looks up a localized string similar to JSON export.
         /// </summary>
         public static string Menu_FastFlagEditor_ExportJson {
             get {
@@ -2314,7 +2321,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The entry for &apos;{0}&apos; is not valid as the value must be a boolean (either &apos;True&apos; or &apos;False&apos;).
+        ///   Looks up a localized string similar to entry for &apos;{0}&apos; is not valid as the value must be a boolean (either &apos;True&apos; or &apos;False&apos;).
         /// </summary>
         public static string Menu_FastFlagEditor_InvalidBoolValue {
             get {
@@ -2323,7 +2330,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The entry for &apos;{0}&apos; is not valid as the name can only contain letters, numbers, and underscores.
+        ///   Looks up a localized string similar to entry for &apos;{0}&apos; is not valid as the name can only contain letters, numbers, and underscores.
         /// </summary>
         public static string Menu_FastFlagEditor_InvalidCharacter {
             get {
@@ -2332,7 +2339,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The JSON you&apos;ve entered does not appear to be valid. Please double check it and try again.
+        ///   Looks up a localized string similar to JSON inputted does not appear to be valid.
         ///
         ///More information:
         ///{0}.
@@ -2344,7 +2351,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The entry for &apos;{0}&apos; is not valid as the value must be a number.
+        ///   Looks up a localized string similar to entry for &apos;{0}&apos; is not valid as the value must be a number.
         /// </summary>
         public static string Menu_FastFlagEditor_InvalidNumberValue {
             get {
@@ -2353,7 +2360,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The entry for &apos;{0}&apos; is not valid as the place filter is not formatted correctly..
+        ///   Looks up a localized string similar to entry for &apos;{0}&apos; is not valid as the place filter is not formatted correctly..
         /// </summary>
         public static string Menu_FastFlagEditor_InvalidPlaceFilter {
             get {
@@ -2362,7 +2369,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The entry for &apos;{0}&apos; is not valid as the name must start with FFlag, DFInt, etc.
+        ///   Looks up a localized string similar to entry for &apos;{0}&apos; is not valid as the name must start with FFlag, DFInt, etc.
         /// </summary>
         public static string Menu_FastFlagEditor_InvalidPrefix {
             get {
@@ -2371,7 +2378,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copied to clipboard..
+        ///   Looks up a localized string similar to copied to clipboard..
         /// </summary>
         public static string Menu_FastFlagEditor_JsonCopiedToClipboard {
             get {
@@ -2380,9 +2387,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You appear to be importing a very large configuration. You should only be importing configurations that you fully understand. Do NOT blindly paste in configurations made by other people. If you continue, you will very likely end up with stability issues and encounter unexpected changes.
-        ///
-        ///Are you sure you want to continue?.
+        ///   Looks up a localized string similar to LARGE CONFIG. WHINE..
         /// </summary>
         public static string Menu_FastFlagEditor_LargeConfig {
             get {
@@ -2391,7 +2396,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Flag Profiles.
+        ///   Looks up a localized string similar to 🛠 saves.
         /// </summary>
         public static string Menu_FastFlagEditor_ProfilesDescription {
             get {
@@ -2400,7 +2405,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search.
+        ///   Looks up a localized string similar to s.
         /// </summary>
         public static string Menu_FastFlagEditor_Search {
             get {
@@ -2409,7 +2414,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show preset flags.
+        ///   Looks up a localized string similar to preset 🛠.
         /// </summary>
         public static string Menu_FastFlagEditor_ShowPresetFlags {
             get {
@@ -2418,7 +2423,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fast Flag Editor.
+        ///   Looks up a localized string similar to 🛠 editor.
         /// </summary>
         public static string Menu_FastFlagEditor_Title {
             get {
@@ -2427,7 +2432,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go back.
+        ///   Looks up a localized string similar to b.
         /// </summary>
         public static string Menu_FastFlagEditor_Warning_Back {
             get {
@@ -2436,7 +2441,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I know what I&apos;m doing.
+        ///   Looks up a localized string similar to I&apos;ll try my best.
         /// </summary>
         public static string Menu_FastFlagEditor_Warning_Continue {
             get {
@@ -2445,7 +2450,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you know what you are doing?.
+        ///   Looks up a localized string similar to Are you a fool?.
         /// </summary>
         public static string Menu_FastFlagEditor_Warning_Header {
             get {
@@ -2454,9 +2459,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, manually configuring them can cause serious issues with stability and functionality. Do NOT use the editor if you are unsure of what you are doing.
-        ///
-        ///Do NOT use this to import large &quot;flag lists&quot; made by other people that promise to improve performance or such. They are subject to the aforementioned issues, and they will cause problems for you since you will not be fully aware  [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to 🛠.
         /// </summary>
         public static string Menu_FastFlagEditor_Warning_Text {
             get {
@@ -2465,7 +2468,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Save current flags.
+        ///   Looks up a localized string similar to s current  🛠.
         /// </summary>
         public static string Menu_FastFlagProfiles_Save {
             get {
@@ -2474,7 +2477,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Control how specific Roblox engine parameters and features are configured..
+        ///   Looks up a localized string similar to c specific g parameters..
         /// </summary>
         public static string Menu_FastFlags_Description {
             get {
@@ -2483,7 +2486,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage your own Fast Flags. Use with caution..
+        ///   Looks up a localized string similar to manage your own 🛠..
         /// </summary>
         public static string Menu_FastFlags_Editor_Description {
             get {
@@ -2492,7 +2495,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn more about Fast Flags, what these presets do, and how to use them..
+        ///   Looks up a localized string similar to learn about 🛠.
         /// </summary>
         public static string Menu_FastFlags_Help_Description {
             get {
@@ -2501,7 +2504,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Disabling this will prevent anything configured here from being applied to Roblox..
+        ///   Looks up a localized string similar to disabling will prevent m to 🎮.
         /// </summary>
         public static string Menu_FastFlags_ManagerEnabled_Description {
             get {
@@ -2510,7 +2513,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allow Fishstrap to manage Fast Flags.
+        ///   Looks up a localized string similar to Allow ❑︎ to manage 🛠.
         /// </summary>
         public static string Menu_FastFlags_ManagerEnabled_Title {
             get {
@@ -2519,7 +2522,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rendering and Graphics.
+        ///   Looks up a localized string similar to 🗔 &amp; 🎮.
         /// </summary>
         public static string Menu_FastFlags_Presets_Categories_Rendering {
             get {
@@ -2528,7 +2531,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to User Interface and Layout.
+        ///   Looks up a localized string similar to 🗔 &amp; ⍓︎.
         /// </summary>
         public static string Menu_FastFlags_Presets_Categories_UserInterface {
             get {
@@ -2546,7 +2549,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Disable player shadows.
+        ///   Looks up a localized string similar to ⌧︎ player shadows.
         /// </summary>
         public static string Menu_FastFlags_Presets_DisablePlayerShadows_Title {
             get {
@@ -2555,7 +2558,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Disable post-processing effects.
+        ///   Looks up a localized string similar to ⌧︎ post-processing effects.
         /// </summary>
         public static string Menu_FastFlags_Presets_DisablePostFX_Title {
             get {
@@ -2564,7 +2567,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Disable terrain textures.
+        ///   Looks up a localized string similar to ⌧︎ terrain textures.
         /// </summary>
         public static string Menu_FastFlags_Presets_DisableTerrainTextures_Title {
             get {
@@ -2573,7 +2576,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preferred escape menu version.
+        ///   Looks up a localized string similar to ❑︎ escape menu version.
         /// </summary>
         public static string Menu_FastFlags_Presets_EscapeMenuVersion_Title {
             get {
@@ -2582,7 +2585,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox reduces your rendering quality depending on how your display is scaled in Windows..
+        ///   Looks up a localized string similar to 🎮 reduces your rendering quality depending on how your display is scaled in 🗔..
         /// </summary>
         public static string Menu_FastFlags_Presets_FixDisplayScaling_Description {
             get {
@@ -2591,7 +2594,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preserve rendering quality with display scaling.
+        ///   Looks up a localized string similar to kp rendering quality with display scaling.
         /// </summary>
         public static string Menu_FastFlags_Presets_FixDisplayScaling_Title {
             get {
@@ -2600,7 +2603,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Default value is 1. Adjust if you use a custom font..
+        ///   Looks up a localized string similar to default value is 1. adjust if you use a custom f..
         /// </summary>
         public static string Menu_FastFlags_Presets_FontPadding_Description {
             get {
@@ -2609,7 +2612,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Font size.
+        ///   Looks up a localized string similar to f size.
         /// </summary>
         public static string Menu_FastFlags_Presets_FontPadding_Title {
             get {
@@ -2618,7 +2621,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Set to 0 for defaults if you want to use Roblox&apos;s native framerate unlocker..
+        ///   Looks up a localized string similar to set to 0 for defaults if you want to use g&apos;s native framerate unlocker..
         /// </summary>
         public static string Menu_FastFlags_Presets_FPSLimit_Description {
             get {
@@ -2627,7 +2630,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Framerate limit.
+        ///   Looks up a localized string similar to fps limit.
         /// </summary>
         public static string Menu_FastFlags_Presets_FPSLimit_Title {
             get {
@@ -2636,7 +2639,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Stops it from showing whenever you move your mouse to the top of the screen..
+        ///   Looks up a localized string similar to stops it from showing whenever you move your mouse to the top of the screen..
         /// </summary>
         public static string Menu_FastFlags_Presets_FullscreenTitlebar_Description {
             get {
@@ -2645,7 +2648,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Disable full-screen titlebar.
+        ///   Looks up a localized string similar to ⌧︎ full-screen titlebar.
         /// </summary>
         public static string Menu_FastFlags_Presets_FullscreenTitlebar_Title {
             get {
@@ -2654,7 +2657,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Toggled with [keyboard shortcuts]({0}). Input id of a group you&apos;re in..
+        ///   Looks up a localized string similar to toggled with [keyboard shortcuts]({0}). input id of a group you&apos;re in..
         /// </summary>
         public static string Menu_FastFlags_Presets_HideGuis_Description {
             get {
@@ -2663,7 +2666,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hiding GUIs.
+        ///   Looks up a localized string similar to hiding guis.
         /// </summary>
         public static string Menu_FastFlags_Presets_HideGuis_Title {
             get {
@@ -2672,7 +2675,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chosen one will be force enabled in all games. [Beware, may cause lighting issues!]({0}).
+        ///   Looks up a localized string similar to [force enabled in all games?]({0}).
         /// </summary>
         public static string Menu_FastFlags_Presets_LightingTechnology_Description {
             get {
@@ -2681,7 +2684,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preferred lighting technology.
+        ///   Looks up a localized string similar to ❑︎ lighting technology.
         /// </summary>
         public static string Menu_FastFlags_Presets_LightingTechnology_Title {
             get {
@@ -2690,7 +2693,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Anti-aliasing quality (MSAA).
+        ///   Looks up a localized string similar to (MSA-A).
         /// </summary>
         public static string Menu_FastFlags_Presets_MSAA_Title {
             get {
@@ -2699,7 +2702,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rendering mode.
+        ///   Looks up a localized string similar to rndr mode.
         /// </summary>
         public static string Menu_FastFlags_Presets_RenderingMode_Title {
             get {
@@ -2708,7 +2711,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Texture quality.
+        ///   Looks up a localized string similar to txtr quality.
         /// </summary>
         public static string Menu_FastFlags_Presets_TextureQuality_Title {
             get {
@@ -2717,7 +2720,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reset everything to defaults.
+        ///   Looks up a localized string similar to ❑︎ everything to defaults.
         /// </summary>
         public static string Menu_FastFlags_Reset_Title {
             get {
@@ -2726,7 +2729,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Engine Settings.
+        ///   Looks up a localized string similar to ❑︎.
         /// </summary>
         public static string Menu_FastFlags_Title {
             get {
@@ -2735,7 +2738,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Save and load fast flag profiles..
+        ///   Looks up a localized string similar to s &amp; l: 🛠.
         /// </summary>
         public static string Menu_FlagProfiles_Description {
             get {
@@ -2744,7 +2747,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fast Flag Profiles.
+        ///   Looks up a localized string similar to 🛠 identities.
         /// </summary>
         public static string Menu_FlagProfiles_Title {
             get {
@@ -2753,7 +2756,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Font files.
+        ///   Looks up a localized string similar to f files.
         /// </summary>
         public static string Menu_FontFiles {
             get {
@@ -2762,7 +2765,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Icon files.
+        ///   Looks up a localized string similar to icon files.
         /// </summary>
         public static string Menu_IconFiles {
             get {
@@ -2771,7 +2774,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button..
+        ///   Looks up a localized string similar to ❑︎ cannot be ⤓ here..
         /// </summary>
         public static string Menu_InstallLocation_CantInstall {
             get {
@@ -2780,13 +2783,13 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The folder you&apos;ve chosen to install Fishstrap to already exists and is NOT empty. It is strongly recommended for Fishstrap to be installed to its own independent folder.
+        ///   Looks up a localized string similar to the folder you&apos;ve chosen to install ❑︎ to already exists and is NOT empty. maybe recommended for ❑︎ to be installed to its own independent folder.
         ///
-        ///Changing to the following location is suggested:
+        ///Suggestion by O:
         ///{0}
         ///
-        ///Would you like to change to the suggested location?
-        ///Selecting &apos;No&apos; will ignore this warning and continue installation..
+        ///Accept?
+        ///Selecting &apos;No&apos; = 🏃 &amp; -&gt;..
         /// </summary>
         public static string Menu_InstallLocation_NotEmpty {
             get {
@@ -2795,7 +2798,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You must set an install location.
+        ///   Looks up a localized string similar to must set an install location.
         /// </summary>
         public static string Menu_InstallLocation_NotSet {
             get {
@@ -2804,7 +2807,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap does not have write access to the install location you&apos;ve selected. Please choose another location..
+        ///   Looks up a localized string similar to ❑︎ does not have write access to the install location you&apos;ve selected. choose another location..
         /// </summary>
         public static string Menu_InstallLocation_NoWritePerms {
             get {
@@ -2813,7 +2816,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Activity tracking.
+        ///   Looks up a localized string similar to act tracking.
         /// </summary>
         public static string Menu_Integrations_ActivityTracking {
             get {
@@ -2822,7 +2825,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allows for anybody to join the game you&apos;re currently in through your Discord profile..
+        ///   Looks up a localized string similar to allow anybody to join the game you&apos;re currently in through your 🌎profile..
         /// </summary>
         public static string Menu_Integrations_AllowActivityJoining_Description {
             get {
@@ -2831,7 +2834,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allow activity joining.
+        ///   Looks up a localized string similar to allow act joining.
         /// </summary>
         public static string Menu_Integrations_AllowActivityJoining_Title {
             get {
@@ -2849,7 +2852,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Auto close when Roblox closes.
+        ///   Looks up a localized string similar to Auto close when 🎮 closes.
         /// </summary>
         public static string Menu_Integrations_Custom_AutoClose {
             get {
@@ -2858,7 +2861,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Here, you can have other programs launch with Roblox automatically..
+        ///   Looks up a localized string similar to have other programs launch with 🎮 automatically..
         /// </summary>
         public static string Menu_Integrations_Custom_Description {
             get {
@@ -2867,7 +2870,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Launch Arguments.
+        ///   Looks up a localized string similar to l arg.
         /// </summary>
         public static string Menu_Integrations_Custom_LaunchArgs {
             get {
@@ -2876,7 +2879,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox is running!.
+        ///   Looks up a localized string similar to 🎮 is running..
         /// </summary>
         public static string Menu_Integrations_Custom_LaunchArgs_Placeholder {
             get {
@@ -2885,7 +2888,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New Integration.
+        ///   Looks up a localized string similar to new inst.
         /// </summary>
         public static string Menu_Integrations_Custom_NewIntegration {
             get {
@@ -2894,7 +2897,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No integration selected, please select or add a new one.
+        ///   Looks up a localized string similar to no inst selected, please select or add a new one.
         /// </summary>
         public static string Menu_Integrations_Custom_NoneSelected {
             get {
@@ -2903,7 +2906,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Custom Integrations.
+        ///   Looks up a localized string similar to custom inst.
         /// </summary>
         public static string Menu_Integrations_Custom_Title {
             get {
@@ -2912,7 +2915,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure additional functionality to go alongside Roblox..
+        ///   Looks up a localized string similar to ❑︎ additional functionality to go alongside Roblox..
         /// </summary>
         public static string Menu_Integrations_Description {
             get {
@@ -2921,7 +2924,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox will fully close when you leave a game instead of going back to the app. [Will break some things!]({0}).
+        ///   Looks up a localized string similar to 🎮 will fully close when you leave a game instead of going back to the app. [Will break some things!]({0}).
         /// </summary>
         public static string Menu_Integrations_DesktopApp_Description {
             get {
@@ -2930,7 +2933,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Don&apos;t exit to desktop app.
+        ///   Looks up a localized string similar to N exit to desktop app.
         /// </summary>
         public static string Menu_Integrations_DesktopApp_Title {
             get {
@@ -2939,7 +2942,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allows for Fishstrap to detect what Roblox game you&apos;re playing. Certain features may require this..
+        ///   Looks up a localized string similar to ❑︎ 👁 -&gt; 🎮 is 🏃. 🛠 :? require this..
         /// </summary>
         public static string Menu_Integrations_EnableActivityTracking_Description {
             get {
@@ -2948,7 +2951,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enable activity tracking.
+        ///   Looks up a localized string similar to ☹︎ activ tracking.
         /// </summary>
         public static string Menu_Integrations_EnableActivityTracking_Title {
             get {
@@ -2957,7 +2960,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When in-game, you&apos;ll be able to see where your server is located via [ipinfo.io]({0})..
+        ///   Looks up a localized string similar to in-game, you&apos;ll be able to see where your server is located via [ipinfo.io]({0})..
         /// </summary>
         public static string Menu_Integrations_QueryServerLocation_Description {
             get {
@@ -2966,7 +2969,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Query server location.
+        ///   Looks up a localized string similar to qr server location.
         /// </summary>
         public static string Menu_Integrations_QueryServerLocation_Title {
             get {
@@ -2975,7 +2978,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This feature requires activity tracking to be enabled and the Discord desktop app to be installed and running. [Find out more]({0})..
+        ///   Looks up a localized string similar to feature requires activity tracking to be enabled and the s app to be installed and running. [f out more]({0})..
         /// </summary>
         public static string Menu_Integrations_RequiresActivityTracking {
             get {
@@ -2984,7 +2987,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Shows the Roblox account you&apos;re playing with on your Discord profile..
+        ///   Looks up a localized string similar to 🌎 -&gt; 🎮 account you&apos;re playing with on your 🌎 profile..
         /// </summary>
         public static string Menu_Integrations_ShowAccountOnProfile_Description {
             get {
@@ -2993,7 +2996,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show Roblox account.
+        ///   Looks up a localized string similar to 🎮 account on 🌎.
         /// </summary>
         public static string Menu_Integrations_ShowAccountOnProfile_Title {
             get {
@@ -3002,7 +3005,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Roblox game you&apos;re playing will be shown on your Discord profile. [Not working?]({0}).
+        ///   Looks up a localized string similar to 🎮 played will be shown on your 🌎 profile. [working?]({0}).
         /// </summary>
         public static string Menu_Integrations_ShowGameActivity_Description {
             get {
@@ -3011,7 +3014,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show game activity.
+        ///   Looks up a localized string similar to -&gt; 🎮 actv.
         /// </summary>
         public static string Menu_Integrations_ShowGameActivity_Title {
             get {
@@ -3020,7 +3023,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Integrations.
+        ///   Looks up a localized string similar to insts.
         /// </summary>
         public static string Menu_Integrations_Title {
             get {
@@ -3029,7 +3032,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Load.
+        ///   Looks up a localized string similar to ld.
         /// </summary>
         public static string Menu_Load {
             get {
@@ -3038,7 +3041,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage and apply file mods to the Roblox game client..
+        ///   Looks up a localized string similar to apply file mods to the 🎮..
         /// </summary>
         public static string Menu_Mods_Description {
             get {
@@ -3047,7 +3050,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to See info about managing and creating mods..
+        ///   Looks up a localized string similar to info about managing and creating mods..
         /// </summary>
         public static string Menu_Mods_Help_Description {
             get {
@@ -3056,7 +3059,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure application parameters such as DPI scaling behaviour and [fullscreen optimizations]({0})..
+        ///   Looks up a localized string similar to 🛠 application parameters =, DPI scaling behaviour and [fullscreen optimizations]({0})..
         /// </summary>
         public static string Menu_Mods_Misc_CompatibilitySettings_Description {
             get {
@@ -3065,7 +3068,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage compatibility settings.
+        ///   Looks up a localized string similar to m compatibility 🛠.
         /// </summary>
         public static string Menu_Mods_Misc_CompatibilitySettings_Title {
             get {
@@ -3074,7 +3077,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose font....
+        ///   Looks up a localized string similar to choose fnt.
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Choose {
             get {
@@ -3083,7 +3086,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Font size can be adjusted in the Engine Settings tab..
+        ///   Looks up a localized string similar to f size can be adjusted in the engs tab..
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Description {
             get {
@@ -3092,7 +3095,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The file you have chosen does not appear to be a valid font file..
+        ///   Looks up a localized string similar to file you have chosen does not appear to be a valid f file..
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Invalid {
             get {
@@ -3101,7 +3104,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remove applied font.
+        ///   Looks up a localized string similar to r applied f.
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Remove {
             get {
@@ -3110,7 +3113,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use custom font.
+        ///   Looks up a localized string similar to use custom f.
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Title {
             get {
@@ -3119,7 +3122,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage custom Roblox mods here..
+        ///   Looks up a localized string similar to mng custom g mds here..
         /// </summary>
         public static string Menu_Mods_OpenModsFolder_Description {
             get {
@@ -3128,7 +3131,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open Mods Folder.
+        ///   Looks up a localized string similar to open m flder.
         /// </summary>
         public static string Menu_Mods_OpenModsFolder_Title {
             get {
@@ -3137,7 +3140,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose which type of emoji should Roblox use..
+        ///   Looks up a localized string similar to 🛠 which type of emoji should 🎮 use..
         /// </summary>
         public static string Menu_Mods_Presets_EmojiType_Description {
             get {
@@ -3146,7 +3149,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The emoji mod can not be applied at this time..
+        ///   Looks up a localized string similar to ☹︎ mod can not be applied at this time..
         /// </summary>
         public static string Menu_Mods_Presets_EmojiType_Error {
             get {
@@ -3155,7 +3158,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preferred emoji type.
+        ///   Looks up a localized string similar to 🛠 ☹︎.
         /// </summary>
         public static string Menu_Mods_Presets_EmojiType_Title {
             get {
@@ -3164,7 +3167,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose between using two classic Roblox cursor styles..
+        ///   Looks up a localized string similar to 🛠 between using g 🖰︎ styles..
         /// </summary>
         public static string Menu_Mods_Presets_MouseCursor_Description {
             get {
@@ -3173,7 +3176,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mouse cursor.
+        ///   Looks up a localized string similar to 🖰︎.
         /// </summary>
         public static string Menu_Mods_Presets_MouseCursor_Title {
             get {
@@ -3182,7 +3185,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bring back the old avatar editor background used in the Roblox app prior to 2020..
+        ///   Looks up a localized string similar to return the old 🛠 ☹︎ background used in the g app prior to 2020..
         /// </summary>
         public static string Menu_Mods_Presets_OldAvatarEditor_Description {
             get {
@@ -3191,7 +3194,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use old avatar editor background.
+        ///   Looks up a localized string similar to old 🛠 ☹︎ background.
         /// </summary>
         public static string Menu_Mods_Presets_OldAvatarEditor_Title {
             get {
@@ -3200,7 +3203,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An attempt to roughly bring back the character sounds used prior to 2014..
+        ///   Looks up a localized string similar to atmp to roughly bring back the character sounds used prior to 2014..
         /// </summary>
         public static string Menu_Mods_Presets_OldCharacterSounds_Description {
             get {
@@ -3209,7 +3212,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Emulate old character sounds.
+        ///   Looks up a localized string similar to atmp old ☹︎ 🔊.
         /// </summary>
         public static string Menu_Mods_Presets_OldCharacterSounds_Title {
             get {
@@ -3218,7 +3221,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bring back the classic &apos;oof&apos; death sound..
+        ///   Looks up a localized string similar to return classic &apos;oof&apos; ☠︎ 🔊..
         /// </summary>
         public static string Menu_Mods_Presets_OldDeathSound_Description {
             get {
@@ -3227,7 +3230,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use old death sound.
+        ///   Looks up a localized string similar to Use old ☠︎ 🔊.
         /// </summary>
         public static string Menu_Mods_Presets_OldDeathSound_Title {
             get {
@@ -3236,7 +3239,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mods.
+        ///   Looks up a localized string similar to m.
         /// </summary>
         public static string Menu_Mods_Title {
             get {
@@ -3245,7 +3248,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Click for more information on this option..
+        ///   Looks up a localized string similar to 🖰︎ for more inf..
         /// </summary>
         public static string Menu_MoreInfo {
             get {
@@ -3254,7 +3257,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Save.
+        ///   Looks up a localized string similar to sv.
         /// </summary>
         public static string Menu_Save {
             get {
@@ -3263,7 +3266,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Changes will take effect the next time you launch Roblox..
+        ///   Looks up a localized string similar to ❑︎ may effect the next time you launch g..
         /// </summary>
         public static string Menu_SettingsSaved_Message {
             get {
@@ -3272,7 +3275,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Settings saved!.
+        ///   Looks up a localized string similar to 🛠 saved..
         /// </summary>
         public static string Menu_SettingsSaved_Title {
             get {
@@ -3281,7 +3284,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure how Fishstrap can be readily launched..
+        ///   Looks up a localized string similar to ❑︎ how ❑︎ can be readily launched..
         /// </summary>
         public static string Menu_Shortcuts_Description {
             get {
@@ -3290,7 +3293,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allows you to use Fishstrap&apos;s range of Roblox icons for your shortcuts. [See how.]({0}).
+        ///   Looks up a localized string similar to allows you to use ❑︎&apos;s range of g icons for your shortcuts. [c how.]({0}).
         /// </summary>
         public static string Menu_Shortcuts_ExtractIcons_Description {
             get {
@@ -3299,7 +3302,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Extract Roblox icons to folder.
+        ///   Looks up a localized string similar to ext 🎮 icons to folder.
         /// </summary>
         public static string Menu_Shortcuts_ExtractIcons_Title {
             get {
@@ -3308,7 +3311,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Create shortcuts for quick access to specific functions. These will all be placed on the Desktop..
+        ///   Looks up a localized string similar to cr shortcut for quick access. -&gt; Desktop.
         /// </summary>
         public static string Menu_Shortcuts_Function_Description {
             get {
@@ -3317,7 +3320,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Function.
+        ///   Looks up a localized string similar to fnc.
         /// </summary>
         public static string Menu_Shortcuts_Function_Title {
             get {
@@ -3326,7 +3329,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These are the shortcuts that bring up the multi-choice launch menu..
+        ///   Looks up a localized string similar to shortcuts that bring up the multi-choice launch menu..
         /// </summary>
         public static string Menu_Shortcuts_General_Description {
             get {
@@ -3335,7 +3338,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to General.
+        ///   Looks up a localized string similar to gnrl.
         /// </summary>
         public static string Menu_Shortcuts_General_Title {
             get {
@@ -3344,7 +3347,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Test mode.
+        ///   Looks up a localized string similar to tst.
         /// </summary>
         public static string Menu_TestMode {
             get {
@@ -3353,9 +3356,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Test mode makes it easier to iteratively test how your settings affect Roblox. 
+        ///   Looks up a localized string similar to Test mode makes it easier to iteratively test how your  🛠 affect 🎮.
         ///
-        ///While enabled, it will automatically launch Roblox after closing Settings, and reopen Settings after closing Roblox, in a cycle until you disable it.
+        ///While enabled, it will automatically launch 🎮 after closing  🛠, and reopen 🛠  after closing 🎮, in a cycle until you disable it.
         ///
         ///Would you like to enable test mode?.
         /// </summary>
@@ -3366,7 +3369,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap Settings.
+        ///   Looks up a localized string similar to ❑︎ 🛠.
         /// </summary>
         public static string Menu_Title {
             get {
@@ -3375,7 +3378,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have unsaved changes. Are you sure you want to close without saving?.
+        ///   Looks up a localized string similar to unsaved changes. close without 🛠?.
         /// </summary>
         public static string Menu_UnsavedChanges {
             get {
@@ -3384,7 +3387,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Icons.
+        ///   Looks up a localized string similar to icons.
         /// </summary>
         public static string Paths_Icons {
             get {
@@ -3393,7 +3396,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to They&apos;ll be kept where Fishstrap was installed, and will automatically be restored on a reinstall..
+        ///   Looks up a localized string similar to 🛠 will be kept where ❑︎ was installed, and will automatically be restored on a reinstall..
         /// </summary>
         public static string Uninstaller_KeepData_Description {
             get {
@@ -3402,7 +3405,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Keep my settings and mods.
+        ///   Looks up a localized string similar to kp my  🛠..
         /// </summary>
         public static string Uninstaller_KeepData_Label {
             get {
@@ -3411,13 +3414,13 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Uninstalling will remove Fishstrap from your system, and automatically reconfigure the default Roblox launcher if it&apos;s still installed.
+        ///   Looks up a localized string similar to uninst will remove ❑︎ from your system, and automatically reconfigure the default 🎮 launcher if it&apos;s still installed.
         ///
-        ///If you&apos;re uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
+        ///If you&apos;re uninst or reinst because you are having issues with 🎮, read [this help page]({0}) first.
         ///
-        ///The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Fishstrap was installed.
+        ///uninst process may not be able to fully clean up itself, so you may need to manually clean up leftover files where ❑︎ was installed.
         ///
-        ///Fishstrap was installed at &quot;{1}&quot;..
+        ///❑︎ was installed at &quot;{1}&quot;..
         /// </summary>
         public static string Uninstaller_Text {
             get {
@@ -3426,7 +3429,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Uninstall Fishstrap.
+        ///   Looks up a localized string similar to uninst ❑︎.
         /// </summary>
         public static string Uninstaller_Title {
             get {
@@ -3435,7 +3438,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Uninstall.
+        ///   Looks up a localized string similar to uninst.
         /// </summary>
         public static string Uninstaller_Uninstall {
             get {

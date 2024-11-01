@@ -53,7 +53,7 @@ namespace Bloxstrap
                         Frontend.ShowMessageBox($"{message}\n\n{ex.Message}", System.Windows.MessageBoxImage.Warning);
                 }
 
-                Save();
+               // Save();
             }
         }
 

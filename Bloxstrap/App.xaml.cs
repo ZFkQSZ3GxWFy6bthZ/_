@@ -16,13 +16,14 @@ namespace Bloxstrap
 #if QA_BUILD
         public const string ProjectName = "Bloxstrap-QA";
 #else
-        public const string ProjectName = "Fishstrap";
+        public const string ProjectName = "MysteriousObject";
+        public const string MysteriousString = "■︎";
 #endif
-        public const string ProjectOwner = "returnrqt";
-        public const string ProjectRepository = "returnrqt/fishstrap";
-        public const string ProjectDownloadLink = "https://github.com/returnrqt/fishstrap/releases";
-        public const string ProjectHelpLink = "https://github.com/bloxstraplabs/bloxstrap/wiki";
-        public const string ProjectSupportLink = "https://github.com/returnrqt/fishstrap/issues/new";
+        public const string ProjectOwner = "ZFkQSZ3GxWFy6bthZ";
+        public const string ProjectRepository = "ZFkQSZ3GxWFy6bthZ/_";
+        public const string ProjectDownloadLink = "https://github.com/ZFkQSZ3GxWFy6bthZ/_/releases";
+        public const string ProjectHelpLink = "https://github.com/ZFkQSZ3GxWFy6bthZ/_/wiki";
+        public const string ProjectSupportLink = "https://github.com/ZFkQSZ3GxWFy6bthZ/_/issues/new";
 
         public const string RobloxPlayerAppName = "RobloxPlayerBeta";
         public const string RobloxStudioAppName = "RobloxStudioBeta";

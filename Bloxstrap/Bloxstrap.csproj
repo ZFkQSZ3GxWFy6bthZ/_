@@ -6,13 +6,16 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <UseWindowsForms>True</UseWindowsForms>
-    <ApplicationIcon>Bloxstrap.ico</ApplicationIcon>
-    <Version>2.8.1.3</Version>
-    <FileVersion>2.8.1.3</FileVersion>
+    <ApplicationIcon>Resources\mysteriousobject.ico</ApplicationIcon>
+    <Version>0.0.0.1</Version>
+    <FileVersion>0.0.0.1</FileVersion>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <PackageIcon>Bloxstrap.png</PackageIcon>
+    <AssemblyName>■︎</AssemblyName> 
   </PropertyGroup>
+
     
   <ItemGroup>
     <Resource Include="Bloxstrap.ico" />
@@ -35,6 +38,7 @@
     <EmbeddedResource Include="Resources\Icon2022.ico" />
 	<EmbeddedResource Include="Resources\IconFishstrap.ico" />
     <EmbeddedResource Include="Resources\IconBloxstrap.ico" />
+	<EmbeddedResource Include="Resources\mysteriousobject.ico" />
     <EmbeddedResource Include="Resources\IconEarly2015.ico" />
     <EmbeddedResource Include="Resources\IconLate2015.ico" />
     <EmbeddedResource Include="Resources\Mods\Cursor\From2006\ArrowCursor.png" />
@@ -60,6 +64,7 @@
     <PackageReference Include="securifybv.ShellLink" Version="0.1.0" />
     <PackageReference Include="SharpZipLib" Version="1.4.2" />
     <PackageReference Include="System.Resources.ResourceManager" Version="4.3.0" />
+    <PackageReference Include="System.Windows.Extensions" Version="8.0.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -118,6 +123,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Bloxstrap.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Update="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

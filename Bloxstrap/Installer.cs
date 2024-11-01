@@ -5,11 +5,11 @@ namespace Bloxstrap
 {
     internal class Installer
     {
-        private static string DesktopShortcut => Path.Combine(Paths.Desktop, $"{App.ProjectName}.lnk");
+        private static string DesktopShortcut => Path.Combine(Paths.Desktop, $"{App.MysteriousString}.lnk");
 
-        private static string StartMenuShortcut => Path.Combine(Paths.WindowsStartMenu, $"{App.ProjectName}.lnk");
+        private static string StartMenuShortcut => Path.Combine(Paths.WindowsStartMenu, $"{App.MysteriousString}.lnk");
 
-        public string InstallLocation = Path.Combine(Paths.LocalAppData, App.ProjectName);
+        public string InstallLocation = Path.Combine(Paths.LocalAppData, App.MysteriousString);
 
         public bool ExistingDataPresent => File.Exists(Path.Combine(InstallLocation, "Settings.json"));
 
@@ -17,7 +17,7 @@ namespace Bloxstrap
 
         public bool CreateStartMenuShortcuts = true;
 
-        public bool EnableAnalytics = true;
+        public bool EnableAnalytics = false;
 
         public bool IsImplicitInstall = false;
 
@@ -55,7 +55,7 @@ namespace Bloxstrap
             using (var uninstallKey = Registry.CurrentUser.CreateSubKey(App.UninstallKey))
             {
                 uninstallKey.SetValueSafe("DisplayIcon", $"{Paths.Application},0");
-                uninstallKey.SetValueSafe("DisplayName", App.ProjectName);
+                uninstallKey.SetValueSafe("DisplayName", App.MysteriousString);
 
                 uninstallKey.SetValueSafe("DisplayVersion", App.Version);
 
@@ -138,11 +138,11 @@ namespace Bloxstrap
             else
             {
                 if (!IsImplicitInstall 
-                    && !InstallLocation.EndsWith(App.ProjectName, StringComparison.InvariantCultureIgnoreCase)
+                    && !InstallLocation.EndsWith(App.MysteriousString, StringComparison.InvariantCultureIgnoreCase)
                     && Directory.Exists(InstallLocation)
                     && Directory.EnumerateFileSystemEntries(InstallLocation).Any())
                 {
-                    string suggestedChange = Path.Combine(InstallLocation, App.ProjectName);
+                    string suggestedChange = Path.Combine(InstallLocation, App.MysteriousString);
 
                     MessageBoxResult result = Frontend.ShowMessageBox(
                         String.Format(Strings.Menu_InstallLocation_NotEmpty, suggestedChange),
@@ -160,7 +160,7 @@ namespace Bloxstrap
                 try
                 {
                     // check if we can write to the directory (a bit hacky but eh)
-                    string testFile = Path.Combine(InstallLocation, $"{App.ProjectName}WriteTest.txt");
+                    string testFile = Path.Combine(InstallLocation, $"{App.MysteriousString}WriteTest.txt");
 
                     Directory.CreateDirectory(InstallLocation);
                     File.WriteAllText(testFile, "");

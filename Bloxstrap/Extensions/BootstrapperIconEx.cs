@@ -16,7 +16,8 @@ namespace Bloxstrap.Extensions
             BootstrapperIcon.Icon2011,
             BootstrapperIcon.Icon2008,
             BootstrapperIcon.IconBloxstrapClassic,
-            BootstrapperIcon.IconCustom
+            BootstrapperIcon.IconCustom,
+            BootstrapperIcon.mysteriousobject
         };
 
         // small note on handling icon sizes
@@ -65,6 +66,7 @@ namespace Bloxstrap.Extensions
                 BootstrapperIcon.Icon2019 => Properties.Resources.Icon2019,
                 BootstrapperIcon.Icon2022 => Properties.Resources.Icon2022,
                 BootstrapperIcon.IconBloxstrapClassic => Properties.Resources.IconBloxstrapClassic,
+                BootstrapperIcon.mysteriousobject => Properties.Resources.mysteriousobject,
                 _ => Properties.Resources.IconBloxstrap
             };
         }
