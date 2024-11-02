@@ -15,5 +15,4 @@
 
 <a href="https://youtu.be/pm4WEiFqvcY">???</a>
 
- <img src="https://github.com/6yNuiC9/q/blob/main/Images/mysteriousobject.png" width="120">
- Intends 2b stable & have as little unneccessities as possible.
+ <img src="https://github.com/6yNuiC9/q/blob/main/Images/mysteriousobject.png" width="60">|  2b stable & have as little unneccessities as possible.
