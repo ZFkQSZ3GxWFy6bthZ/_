@@ -11,7 +11,7 @@
         xmlns:controls="clr-namespace:Bloxstrap.UI.Elements.Controls"
         mc:Ignorable="d"
         d:DataContext="{d:DesignInstance dmodels:UninstallerViewModel, IsDesignTimeCreatable=True}"
-        Title="Bloxstrap"
+        Title="❒︎"
         MinWidth="0"
         MinHeight="0"
         Width="480"
