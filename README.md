@@ -14,9 +14,6 @@
 
 
 <a href="https://youtu.be/pm4WEiFqvcY">???</a>
- - flag profiles
- - no-hand-holding
- - no-personal-validation
- - channel chang
- - future suppression
- - anse
+
+ <img src="https://github.com/6yNuiC9/q/blob/main/Images/mysteriousobject.png" width="120">
+ Intends 2b stable & have as little unneccessities as possible.
