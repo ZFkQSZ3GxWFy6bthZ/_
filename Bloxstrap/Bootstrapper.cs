@@ -224,7 +224,7 @@ namespace Bloxstrap
 
             if (!_noConnection)
             {
-                if (AppData.State.VersionGuid != _latestVersionGuid && AppData.State.VersionGuid != App.Settings.Prop.ChannelHash || _mustUpgrade)
+                if (AppData.State.VersionGuid != _latestVersionGuid || _mustUpgrade)
                     await UpgradeRoblox();
 
                 if (_cancelTokenSource.IsCancellationRequested)
@@ -316,10 +316,12 @@ namespace Bloxstrap
             if (App.Settings.Prop.ChannelHash.Length > 2)
             {
             _latestVersionGuid = App.Settings.Prop.ChannelHash;
+            App.Logger.WriteLine(LOG_IDENT, $"succeed ch");
             }
             else
             {
             _latestVersionGuid = clientVersion.VersionGuid;
+            App.Logger.WriteLine(LOG_IDENT, $"fail ch");
             }
             
             string pkgManifestUrl = Deployment.GetLocation($"/{_latestVersionGuid}-rbxPkgManifest.txt");
