@@ -224,7 +224,7 @@ namespace Bloxstrap
 
             if (!_noConnection)
             {
-                if (AppData.State.VersionGuid != _latestVersionGuid || _mustUpgrade)
+                if (AppData.State.VersionGuid != _latestVersionGuid && AppData.State.VersionGuid != App.Settings.Prop.ChannelHash || _mustUpgrade)
                     await UpgradeRoblox();
 
                 if (_cancelTokenSource.IsCancellationRequested)
@@ -313,8 +313,15 @@ namespace Bloxstrap
 
             key.SetValueSafe("www.roblox.com", Deployment.IsDefaultChannel ? "" : Deployment.Channel);
 
+            if (App.Settings.Prop.ChannelHash.Length > 2)
+            {
+            _latestVersionGuid = App.Settings.Prop.ChannelHash;
+            }
+            else
+            {
             _latestVersionGuid = clientVersion.VersionGuid;
-
+            }
+            
             string pkgManifestUrl = Deployment.GetLocation($"/{_latestVersionGuid}-rbxPkgManifest.txt");
             var pkgManifestData = await App.HttpClient.GetStringAsync(pkgManifestUrl);
 
@@ -404,7 +411,7 @@ namespace Bloxstrap
             if (String.IsNullOrEmpty(logFileName))
             {
                 App.Logger.WriteLine(LOG_IDENT, "Unable to identify log file");
-                Frontend.ShowPlayerErrorDialog();
+                // Frontend.ShowPlayerErrorDialog();
                 return;
             }
             else

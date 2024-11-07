@@ -407,6 +407,15 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Channel.
+        /// </summary>
+        public static string Common_Channel {
+            get {
+                return ResourceManager.GetString("Common.Channel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Custom.
         /// </summary>
         public static string Common_Custom {
@@ -484,6 +493,33 @@ namespace Bloxstrap.Resources {
         public static string Common_ImportJson {
             get {
                 return ResourceManager.GetString("Common.ImportJson", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Version.
+        /// </summary>
+        public static string Common_Version {
+            get {
+                return ResourceManager.GetString("Common.Version", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to VersionGuid.
+        /// </summary>
+        public static string Common_VersionGuid {
+            get {
+                return ResourceManager.GetString("Common.VersionGuid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose deployment channel. Don&apos;t change unless you know what you&apos;re doing..
+        /// </summary>
+        public static string Menu_ChannelChanger_Description {
+            get {
+                return ResourceManager.GetString("Menu.ChannelChanger.Description", resourceCulture);
             }
         }
         
@@ -1071,6 +1107,25 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Roblox upgrades.
+        /// </summary>
+        public static string Menu_Channel_RobloxUpgrades {
+            get {
+                return ResourceManager.GetString("Menu.Channel.RobloxUpgrades", resourceCulture);
+            }
+        }
+        
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When disabled Roblox client won&apos;t upgrade to newer version..
+        /// </summary>
+        public static string Menu_Channel_RobloxUpgrades_Description {
+            get {
+                return ResourceManager.GetString("Menu.Channel.RobloxUpgrades.Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 🎮 failed to launch..
         /// </summary>
         public static string Dialog_PlayerError_FailedLaunch {
@@ -1079,6 +1134,14 @@ namespace Bloxstrap.Resources {
             }
         }
         
+        /// <summary>
+        ///   Looks up a localized string similar to Change deployment and installation settings for Roblox &amp; Fishstrap..
+        /// </summary>
+        public static string Menu_Channel_Description {
+            get {
+                return ResourceManager.GetString("Menu.Channel.Description", resourceCulture);
+            }
+        }
         /// <summary>
         ///   Looks up a localized string similar to 📖 about why this could be happening and how this can be resolved, please read [this help article]({0}).
         ///

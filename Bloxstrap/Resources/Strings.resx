@@ -1092,6 +1092,27 @@ proceed?</value>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
     <value>🎮 failed to launch.</value>
   </data>
+  <data name="Menu.Channel.Description" xml:space="preserve">
+    <value>❑︎</value>
+  </data>
+  <data name="Menu.Channel.RobloxUpgrades" xml:space="preserve">
+    <value>🎮 ↑</value>
+  </data>
+  <data name="Menu.Channel.RobloxUpgrades.Description" xml:space="preserve">
+    <value>❑︎</value>
+  </data>
+  <data name="Common.Channel" xml:space="preserve">
+    <value>Channel</value>
+  </data>
+  <data name="Menu.ChannelChanger.Description" xml:space="preserve">
+    <value>❑︎</value>
+  </data>
+  <data name="Common.VersionGuid" xml:space="preserve">
+    <value>VersionGuid</value>
+  </data>
+  <data name="Common.Version" xml:space="preserve">
+    <value>Version</value>
+  </data>
   <data name="Dialog.PlayerError.Crash" xml:space="preserve">
     <value>🎮 has crashed.</value>
   </data>
