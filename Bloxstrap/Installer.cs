@@ -9,7 +9,7 @@ namespace Bloxstrap
 
         private static string StartMenuShortcut => Path.Combine(Paths.WindowsStartMenu, $"{App.MysteriousString}.lnk");
 
-        public string InstallLocation = Path.Combine(Paths.LocalAppData, App.MysteriousString);
+        public string InstallLocation = Path.Combine(Paths.LocalAppData, "MysteriousObject");
 
         public bool ExistingDataPresent => File.Exists(Path.Combine(InstallLocation, "Settings.json"));
 
